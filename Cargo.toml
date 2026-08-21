@@ -10,8 +10,8 @@ resolver = "2"
 exclude = ["proptest/test-persistence-location/*"]
 
 [workspace.dependencies]
-bit-set = "0.8.0"
-bit-vec = "0.8.0"
+bit-set = "0.11"
+bit-vec = "0.10"
 bitflags = "2.10"
 compiletest_rs = "0.11"
 convert_case = "0.11"

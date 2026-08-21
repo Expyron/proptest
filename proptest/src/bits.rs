@@ -122,7 +122,7 @@ impl BitSetLike for BitSet {
     }
 
     fn count(&self) -> usize {
-        self.len()
+        self.count()
     }
 }
 
